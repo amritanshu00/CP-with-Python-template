@@ -11,7 +11,8 @@ def print(*args,end='\n'):
     
 
 
-def solve():    
+def solve():
+    #Code goes here
 
 
     
